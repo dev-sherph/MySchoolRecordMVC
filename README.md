@@ -1,5 +1,5 @@
-MySchoolRecordMVC
+My School Record MVC
 =================
 
 Modifying the schools record
-$ git commit -m 'first commit'
+to add, remove or update school names and student names
